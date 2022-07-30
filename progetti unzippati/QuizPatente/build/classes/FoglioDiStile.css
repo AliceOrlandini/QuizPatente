@@ -1,0 +1,97 @@
+/* TABLE CSS */
+.table-view{
+    -fx-background-color: transparent;
+    -fx-border-color: #c1c2c4;
+    -fx-border-width: 0px 0px 2px 0px ;
+    -fx-border-style: solid;
+}
+
+.table-view .column-header-background{
+    -fx-background-color:#FFFFFF;
+    -fx-border-color: #c1c2c4;
+    -fx-border-width: 0px 0px 2px 0px ;
+    -fx-border-style: solid;
+}
+
+.table-view .column-header-background .label{
+    -fx-background-color: transparent;
+    -fx-text-fill: #525050;
+    -fx-font-size:13px;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+    -fx-pref-height:40px;
+}
+.table-view  .table-column{
+    -fx-border-width: 0px 0px 0px 0px ;
+    -fx-alignment: CENTER;
+}
+
+
+.table-view .table-row-cell{
+    -fx-font-fill: black;
+    /* -fx-font-family: Arial; */
+    -fx-font-size: 13px;
+    -fx-pref-height:40px;
+    -fx-border-width: 0px 0px 1px 0px ;
+}
+
+.table-row-cell:selected {
+    -fx-text-background-color: black;
+    -fx-background-color: transparent; 
+ }
+
+
+/* CHECK BOX CSS */
+.check-box .box {
+    -fx-background-color: white;
+    -fx-border-color:grey;
+    -fx-border-radius:3px; 
+}
+    
+.check-box:selected .mark {
+    -fx-background-color: white; 
+}
+    
+.check-box:selected .box {
+    -fx-border-color: #0fc018;
+    -fx-background-color: #0fc018;
+}
+
+/* LINECHART */
+.chart-plot-background {
+    -fx-background-color: transparent;
+}
+
+.axis-label {
+    /*-fx-font-fill: #525050;*/
+    -fx-font-weight: bold;
+    /*-fx-font-family: Arial; */
+    -fx-font-size: 14px;
+    -fx-label-padding: 10 10 10 10;
+
+}
+
+.chart-vertical-grid-lines {
+    -fx-stroke: #ffffff;
+}
+.chart-horizontal-grid-lines {
+    -fx-stroke: #ffffff;
+}
+.chart-series-line { 
+    -fx-stroke: #3A9FE1; 
+}
+
+/* PROGRESS BAR */
+.progress-bar > .bar {
+    -fx-background-color: #3A9FE1/*linear-gradient(
+        from 0px .75em to .75em 0px,
+        repeat,
+        -fx-accent 0%,
+        -fx-accent 49%,
+        derive(-fx-accent, 30%) 50%,
+        derive(-fx-accent, 30%) 99%
+    )*/;
+}
+
