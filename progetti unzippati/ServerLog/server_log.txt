@@ -1,0 +1,1905 @@
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:07_10:04:59</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:07_10:05:57</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:07_10:09:21</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:07_10:10:07</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:06_10:15:18</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:06_10:15:21</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:06_10:15:27</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_13:56:44</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_13:57:06</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_13:57:22</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_14:04:14</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_14:04:28</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_14:37:38</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_14:37:43</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_16:29:26</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_16:29:31</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_16:29:41</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_16:30:31</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_16:30:36</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:14_16:30:41</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:15_15:42:21</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:15_15:42:27</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:15_16:03:29</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:15_16:03:36</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:15_16:03:42</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:15_16:05:27</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:15_16:05:32</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:15_16:05:35</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_09:01:41</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_09:01:48</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_09:01:51</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_10:22:34</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_10:22:40</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_10:22:42</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_14:57:51</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_14:58:07</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_14:58:09</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:00:20</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:00:29</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:00:32</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:08:47</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:08:54</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:09:00</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:13:55</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:13:58</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:14:00</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:15:08</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:15:14</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:15:23</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:15:35</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:19:45</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:19:51</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:19:58</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:20:07</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:20:10</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:22:25</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:22:32</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:22:33</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:22:48</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:22:50</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:26:36</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:26:43</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:26:47</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:26:59</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:27:09</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:27:25</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:27:29</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:27:30</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:27:41</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:28:00</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:28:34</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:28:39</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:28:42</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:28:52</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:28:55</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:29:05</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:29:10</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:29:53</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:29:58</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:30:00</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:30:10</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:30:17</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:30:23</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:30:31</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:30:44</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:30:50</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:31:00</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:31:05</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:31:10</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:34:04</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:34:12</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:16_15:34:28</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:06</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:10</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:16</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:21</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:24</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:26</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:40</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:43</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:47</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:18:53</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:19:05</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:19:09</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:19:41</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:21:25</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:21:30</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:24:06</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:24:10</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:24:12</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:24:17</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:24:24</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:24:37</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:24:41</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:24:51</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:24:54</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:25:08</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:25:13</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:25:47</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:25:51</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:25:56</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:26:07</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:26:09</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:26:14</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:26:21</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:26:51</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:26:54</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:27:10</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:27:19</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:29:37</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:29:41</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:29:42</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:29:47</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:29:52</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:30:05</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:30:39</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:30:44</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:30:45</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:30:57</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:31:05</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:31:19</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:31:22</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:31:23</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:31:28</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:31:34</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:31:43</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:32:28</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:32:45</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:32:48</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:33:38</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:33:41</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:33:42</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:33:54</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:33:56</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:34:00</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:34:05</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:34:21</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:34:24</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:34:37</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:34:41</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:34:50</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:34:54</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:34:55</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:35:07</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:35:11</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:35:22</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:35:24</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:35:29</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:35:34</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:35:43</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:18_10:35:46</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:46:59</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:47:21</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:47:27</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:47:33</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:47:35</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:47:38</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:49:41</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:50:36</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:50:38</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:51:05</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:51:10</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:51:18</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:51:27</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:51:58</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:52:03</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:52:19</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:52:24</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:52:32</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:52:36</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_07:52:48</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:10:05</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:10:11</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:10:12</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:10:26</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:10:29</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:10:34</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:10:42</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:10:57</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:11:02</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:11:15</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:11:21</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:11:26</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:11:29</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_10:11:34</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:09:17</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:09:26</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:09:34</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:09:54</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:10:00</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:10:10</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:10:20</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:10:43</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:10:46</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:11:02</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:11:10</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:13:00</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:13:04</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:16:14</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:16:25</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:16:27</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:16:42</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:16:46</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:16:52</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:17:00</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:17:30</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:17:33</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:17:43</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2021:06:21_14:17:50</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:53:05</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:53:16</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:53:24</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:53:33</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:53:37</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:55:17</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:55:27</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:55:46</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:55:47</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:55:52</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:55:57</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:56:05</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:56:18</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:56:37</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:57:22</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:57:26</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:57:30</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:57:34</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:57:37</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:29_18:57:42</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:24:29</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:24:33</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:24:39</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:24:48</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:25:00</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:25:05</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:25:09</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:25:13</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:26:18</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:26:23</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:26:25</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:26:34</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:26:39</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:26:43</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:26:46</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:26:49</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:32:39</timestamp>
+  <azione>AVVIO</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:32:44</timestamp>
+  <azione>LOGIN</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:32:46</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:32:59</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:33:03</timestamp>
+  <azione>INIZIO SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:33:14</timestamp>
+  <azione>FINE SCHEDA</azione>
+</AzioneUtente>
+
+<AzioneUtente>
+  <nomeApplicazione>QuizPatente</nomeApplicazione>
+  <indirizzoIPClient>localhost</indirizzoIPClient>
+  <timestamp>2022:07:30_10:33:21</timestamp>
+  <azione>TERMINE</azione>
+</AzioneUtente>
+

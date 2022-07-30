@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- messaggio_server_log.xml -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="AzioneUtente">
+    <xs:complexType>
+    <xs:sequence>
+        <xs:element name="nomeApplicazione" type="xs:string">
+            </xs:element>
+        <xs:element name="indirizzoIPClient" type="xs:string">
+            </xs:element>
+        <xs:element name="timestamp">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:pattern value="[0-9]{4}[:][0-9]{2}[:][0-9]{2}[_][0-9]{2}[:][0-9]{2}[:][0-9]{2}"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+        <xs:element name="azione" type="xs:string">
+            </xs:element>
+    </xs:sequence>
+    </xs:complexType>
+</xs:element>
+</xs:schema>
